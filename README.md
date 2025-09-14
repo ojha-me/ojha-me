@@ -10,7 +10,7 @@ Interests: AI/ML, system architecture, API design
 🌟 What I'm Passionate About
 I love crafting robust backend systems and diving into AI to create smarter solutions. Outside of code, you’ll find me catching up on One Piece episodes or vibing to J. Cole’s beats.
 
-📫 Get in Touch
+Get in Touch
 
 Email: dineshojha1013@gmail.com 
 LinkedIn: https://www.linkedin.com/in/ojhadinesh/
